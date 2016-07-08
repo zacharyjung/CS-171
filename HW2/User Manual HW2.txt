@@ -1,0 +1,2 @@
+User Manual:
+The program takes the input of a zipcode and turns it into a barcode. To use the program open HW2(2-5).cpp file and click the Local Windows Debugger button. Then you will be prompted to input a zipcode. After inputing the zipcode and pressing enter, the program will display the barcode.

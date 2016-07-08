@@ -1,0 +1,2 @@
+System Manual:
+In this program the user inputs the zipcode and then calls the function barcode. The function barcode splits up the zipcode into individual digits. Then each digit is called to converDigit which converts the digit and check number into a barcode. In the makeCheckDigit the sum of the digits is found and how ever many numbers away from being divisible by 10. The amount from being divisible by 10 is the check number.
